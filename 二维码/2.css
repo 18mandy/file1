@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.scan {
+  width: 60%;
+  height:400rpx;
+  margin-bottom: 200rpx;
+    vertical-align: middle;
+}
+.font{
+  font-size: 64rpx;
+  color: red;
+  font-display: top;
+}

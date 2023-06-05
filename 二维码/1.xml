@@ -1,0 +1,5 @@
+<view class="container">
+<view class="font">点击扫码上传</view>
+<image class="scan"src="/icons/scan.png" bindtap="scanCode" ></image>
+<view>{{show}}</view>
+</view>
